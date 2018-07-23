@@ -1,0 +1,11 @@
+--mode ->
+	Show Currect Terminal Mode
+
+$die ->
+	Close zTerminal
+
+$ont ->
+	Open more zTerminal
+
+$discord-bot [token] ->
+	Start discord bot

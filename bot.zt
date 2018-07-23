@@ -1,0 +1,9 @@
+$discord.bot.event.new
+$discord.bot.event --MONEY --1 fake-dollar recived
+$discord.bot.react --:__:462945477646614528
+$discord.bot.react --:__:462945708786581504
+$discord.bot.react --:__:462945548505317376
+$discord.bot.react --:__:462945648199860225
+$discord.bot.react --:__:462945708786581504
+$discord.bot.react --:__:462945758975623170
+$discord.bot.start --token
